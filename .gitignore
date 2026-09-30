@@ -1,0 +1,17 @@
+.DS_Store
+*.stl
+*.step
+*.stp
+*.iges
+*.igs
+*.sldprt
+*.sldasm
+*.dxf
+*.dwg
+*.obj
+*.mtl
+*.f3d
+*.ino
+*.xlsx
+*.pdf
+*.docx
